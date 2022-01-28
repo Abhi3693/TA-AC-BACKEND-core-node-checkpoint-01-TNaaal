@@ -1,0 +1,18 @@
+img {
+  width: 250px;
+  height: 250px;
+}
+h2 {
+  color: gray;
+}
+p {
+  font-size: 20px;
+}
+button {
+  padding: 5px 10px;
+}
+span {
+  display: block;
+  font-size: 22px;
+  font-weight: 600;
+}
